@@ -1,0 +1,7 @@
+export const DELETE_EVENT='DELETE_EVENT';
+export const CHANGE_ISCOMPLETED='CHANGE_ISCOMPLETED';
+export const LOAD_POST='LOAD_POST'
+export const ADD_TO_EVENT='ADD_TO_EVENT'
+export const CLEAR_COMPLETED='CLEAR_COMPLETED'
+export const SHOW_ALL='SHOW_ALL'
+
